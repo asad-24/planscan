@@ -1,0 +1,19 @@
+
+.backgroundImg{
+    background-image: url("../../assets/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 90vh;
+    
+    }
+.cont{
+    width: 100%;
+ 
+}
+.Heading{
+    
+    color: rgb(62, 73, 204);
+    
+
+}
